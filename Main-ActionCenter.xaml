@@ -141,7 +141,7 @@
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
     </ui:InvokeWorkflowFile>
-    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="638,173" sap2010:WorkflowViewState.IdRef="LogMessage_88" Level="[UiPath.Core.Activities.LogLevel.Info]" Message="[&quot;Process Started&quot;]" />
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="638,173" sap2010:WorkflowViewState.IdRef="LogMessage_88" Level="[UiPath.Core.Activities.LogLevel.Info]" Message="[&quot;Process has been Started&quot;]" />
     <TryCatch DisplayName="Try Catch - Process File" sap:VirtualizedContainerService.HintSize="638,876" sap2010:WorkflowViewState.IdRef="TryCatch_3">
       <TryCatch.Try>
         <Flowchart DisplayName="File Processing Flowchart" sap:VirtualizedContainerService.HintSize="600,625" sap2010:WorkflowViewState.IdRef="Flowchart_10">
